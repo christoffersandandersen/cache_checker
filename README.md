@@ -1,14 +1,14 @@
 # cache_checker
-Requirements:
-	- python 2.7.x
-	- gcc
-	- matplotlib 
-		- install ->  python -mpip install -U pip
-					  python -mpip install -U matplotlib
+Requirements:__
+	- python 2.7.x__
+	- gcc__
+	- matplotlib__ 
+		- install ->  python -mpip install -U pip__
+					  python -mpip install -U matplotlib__
 
-Build:
-	-Build by running the command "make"
+Build:__
+	-Build by running the command "make"__
 
 
-Run:
-	- run the script by executing "python measureCaller.py"
+Run:__
+	- run the script by executing "python measureCaller.py"__
